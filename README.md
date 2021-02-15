@@ -8,7 +8,7 @@ FEATURES
         Sign Up form with JS validation
         Login and Logout options
         Dynamic Search
-        Responsive Design
+        Responsive Design {From Quora}
         
 TECHNOLOGIES
 
@@ -23,7 +23,12 @@ VERSION SUPPORT
         
 CREDENTIALS
       
-        Hostname : localhost
-        Username : root
-        Password : root
-        Database : db
+        Hostname : {IP ADDRESS}
+        Username : crushoverride007	
+        Password : mouhcine
+        Database : WebDBApp
+
+
+CREDITS TO
+
+	Mouhcine MESMOUKI and Omar ABDELMOUJIB

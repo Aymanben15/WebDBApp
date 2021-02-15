@@ -2,6 +2,7 @@
  * File : search.php (Search)
  * Developer : Mouhcine MESMOUKI + Omar ABDELMOUJIB
  -->
+
 <!DOCTYPE html>
 
 <head>
@@ -136,7 +137,7 @@
         </div>
         <div class="footer-copyright">
             <div class="container">
-                Made by <a class="brown-text text-lighten-3" href="http://agney.vishwasetu.com" target="blank">Agney Patel</a>
+                Made by <a class="brown-text text-lighten-3" href="http://github.com/crushoverride007" target="blank">Mouhcine MESMOUKI and Omar ABDELMOUJIB</a>
             </div>
         </div>
     </footer>

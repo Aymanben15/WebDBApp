@@ -1,3 +1,9 @@
+<!--
+ * File : index.php (Home page)
+ * Developer : Mouhcine MESMOUKI + Omar ABDELMOUJIB
+-->
+
+
 <!DOCTYPE html>
 <head>
    <title>Home</title>

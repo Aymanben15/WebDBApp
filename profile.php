@@ -1,8 +1,6 @@
 <!--
  * File : profile.php
- * Developer : Agney Patel
- * Website : www.agney.vishwasetu.com
- * Copyright © Agney Patel 2016
+ * Developer : Mouhcine MESMOUKI and Omar ABDELMOUJIB
  -->
 
 <?php
@@ -89,7 +87,7 @@ include('session.php');
             <div class="row">
                 <div class="col l6 s12">
                     <h5 class="white-text">About</h5>
-                    <p class="grey-text text-lighten-4">This simple web app collects user data, stores in the database and can retrieve the data according to the user input along with login and logout options.</p>
+                    <p class="grey-text text-lighten-4">This Web App is developped using PHP, Mysql, HTML, CSS, JS and Bootstrap (For Templates) to test our CICD Pipeline, with a potentian inclusion of DevSecOps later</p>
                 </div>
                 <div class="col l3 s12">
                     <h5 class="white-text">Tech Specs</h5>
@@ -104,17 +102,17 @@ include('session.php');
                 <div class="col l3 s12">
                     <h5 class="white-text">At a glance</h5>
                     <ul>
-                        <li><a class="white-text">Simplified web page</a></li>
+                        <li><a class="white-text">Web Page desgined with php</a></li>
                         <li><a class="white-text">Dynamic web site</a></li>
-                        <li><a class="white-text">Responsive Design</a></li>
-                        <li><a class="white-text">Built on Macintosh</a></li>
+                        <li><a class="white-text">Responsive Design (Template used from quora)</a></li>
+                        <li><a class="white-text">Built on Macintosh and ubuntu (On a virtual Machine {Parralels Desktop})</a></li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="footer-copyright">
             <div class="container">
-                Made by <a class="brown-text text-lighten-3" href="http://agney.vishwasetu.com" target="blank">Agney Patel</a>
+                Made by <a class="brown-text text-lighten-3" href="http://github.com/crushoverride007" target="blank">Mouhcine MESMOUKI and Omar ABDELMOUJIB</a>
             </div>
         </div>
     </footer>

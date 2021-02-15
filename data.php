@@ -2,8 +2,9 @@
  * File : data.php
  * Developer : Mouhcine MESMOUKI + Omar ABDELMOUJIB
  -->
+
 <?php
-$link = mysqli_connect("localhost", "root", "root", "db");
+$link = mysqli_connect("192.168.188.140", "crushoverride007", "mouhcine", "WebDBApp");
 
 $firstname = $_POST['firstname'];
 $lastname = $_POST['lastname'];

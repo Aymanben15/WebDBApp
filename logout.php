@@ -1,8 +1,6 @@
 <!--
  * File : logout.php
- * Developer : Agney Patel
- * Website : www.agney.vishwasetu.com
- * Copyright © Agney Patel 2016
+ * Developer : Mouhcine MESMOUKI and Omar ABDELMOUJIB
  -->
 
 <?php

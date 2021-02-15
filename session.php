@@ -1,6 +1,6 @@
 <!--
  * File : session.php
- * Developer : Mouhcine MESMOUKI + Omar ABDELMOUJIB
+ * Developer : Mouhcine MESMOUKI and Omar ADELMOUJIB
  -->
 
 <?php

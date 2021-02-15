@@ -4,7 +4,7 @@
  -->
 
 <?php
-$connection = mysqli_connect("localhost", "root", "root", "db");
+$connection = mysqli_connect("192.168.188.140", "crushoverride007", "mouhcine", "WebDBApp");
 
 session_start();
 

@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
     }
     else
     {
-        $connection = mysqli_connect("localhost", "root", "root", "db");
+        $connection = mysqli_connect("192.168.188.140", "crushoverride007", "mouhcine", "WebDBApp");
         $email      = $_POST['email'];
         $password   = $_POST['password'];
         // $email      = stripslashes($email);

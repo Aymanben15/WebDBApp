@@ -59,7 +59,7 @@ include('session.php');
                                         <span class="card-title">User Details | <a href="logout.php">Logout</a></span>
                                         <br>
                                         <?php
-                                          $link = mysqli_connect("localhost", "root", "root", "db");
+                                          $link = mysqli_connect("192.168.188.140", "crushoverride007", "mouhcine", "WebDBApp");
                                           if (!empty($_REQUEST['email'])) {
                                               $email     = mysqli_real_escape_string($link, $_REQUEST['email']);
                                               $sql       = "SELECT * FROM userdata WHERE email LIKE '%" . $email . "%'";

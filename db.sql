@@ -2,7 +2,7 @@
 -- version 4.4.10
 -- http://www.phpmyadmin.net
 --
--- Host: localhost:8889
+-- Host: 192.168.188.140
 -- Server version: 5.5.42
 -- PHP Version: 7.0.8
 

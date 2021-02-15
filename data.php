@@ -18,6 +18,6 @@ $sql = "INSERT INTO userdata (firstname,lastname,email, password, age,phone,gend
 mysqli_query($link, $sql);
 mysqli_close($link);
 
-echo "<h2>Details added. Thanks !</h2>"
+echo "<h2>Details added to WebDBApp database, 'THANKS TO OMAR AND MOUHCINE' !</h2>"
 
 ?>
